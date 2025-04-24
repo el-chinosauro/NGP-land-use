@@ -105,5 +105,7 @@ plt.savefig(fig_path)
 - Document new dependencies by updating `requirements.txt`, `environment.yml`, or `renv.lock`.
 - Avoid committing large raw datasets to Git; sync data via Dropbox.
 - Keep this README up to date with any additional instructions or folder changes.
+- No whitespace in file names
+- No Caps in file names
 
 ---
